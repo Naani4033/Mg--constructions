@@ -191,6 +191,7 @@ nav{
     position: relative;
     display: flex;
    min-height: 50vh;
+    margin-bottom: 5em;
 }
 /* ----- FEATURED TEXT BOX ----- */
 .featured-text{
